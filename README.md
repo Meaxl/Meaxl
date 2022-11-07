@@ -7,8 +7,13 @@
 &nbsp;
 &nbsp;
 - 🌱 I’m currently learning ...
-    - Python 🔜
-    - YAML ✅  
+    - ~~HTML, CSS, PHP, JS~~
+    - ~~MySQL~~
+    - ~~C++~~
+    - ~~C#~~
+    - ~~Python~~
+    - ~~YAML~~ 
+
 &nbsp;
 &nbsp;
 - 🗃 Finished/Recent project's ...
